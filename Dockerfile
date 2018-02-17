@@ -1,4 +1,4 @@
-FROM test11aa/test_nginx_mod:latest
+FROM test11aa/mynginx2_mod
 
 MAINTAINER Ruslan Shevchenko "galucinogen@gmail.com"
 
